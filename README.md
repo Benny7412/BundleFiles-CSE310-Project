@@ -1,1 +1,26 @@
-# BundleFiles-CSE310-Project
+# Overview
+
+x
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+I developed this project on Windows 10 using:
+
+- C++
+- Visual Studio
+
+The main language and libraries used are:
+
+- Rust standard library
+- chrono crate for getting and formatting local date/time
+- rand crate for choosing a random word
+
+# Useful Websites
+
+These are some of the websites that were helpful while learning Rust and building this project:
+
+- [(C++ Course by Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [C++ Tutorial Website](https://www.learncpp.com/cpp-tutorial/statements-and-the-structure-of-a-program/)
+- [C++ Documentation](https://devdocs.io/cpp/)
