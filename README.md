@@ -11,12 +11,6 @@ I developed this project on Windows 10 using:
 - C++
 - Visual Studio
 
-The main language and libraries used are:
-
-- Rust standard library
-- chrono crate for getting and formatting local date/time
-- rand crate for choosing a random word
-
 # Useful Websites
 
 These are some of the websites that were helpful while learning C++ and building this project:
