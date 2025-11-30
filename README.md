@@ -22,3 +22,7 @@ These are some of the websites that were helpful while learning C++ and building
 - [(C++ Course by Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [C++ Tutorial Website](https://www.learncpp.com/cpp-tutorial/statements-and-the-structure-of-a-program/)
 - [C++ Documentation](https://devdocs.io/cpp/)
+
+# Future Work
+- Fix console pop ups
+- Fix bug where a duplicate file makes a second bundle
