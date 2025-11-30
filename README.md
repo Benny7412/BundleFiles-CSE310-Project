@@ -1,10 +1,8 @@
 # Overview
 
-This is a small file bundling utility to learn the basics of C++ and developing with windows.
+This is a small file bundling utility to learn the basics of C++ and developing with windows. The program adds two options to the right click context menu when selecting files in windows explorer, "Bundle into new folder" and "Send to last bundle". The main function of this utility is to be able to quickly organize any kind of file like zipping but without compressing the files.
 
-This program adds two options to the right click context menu when selecting files in windows explorer, "Bundle into new folder" and "Send to last bundle". The main function of this utility is to be able to quickly organize any kind of file like zipping but without compressing the files.
-
-- .bat files which are writing to the registry were written with the help of stack overflow and chatgpt and reviewed carefully to avoid writing potentially harmful code.
+.bat files which are writing to the registry were written with the help of stack overflow and chatgpt and reviewed carefully to avoid writing potentially harmful code.
 
 [Software Demo Video](https://youtu.be/gxL43s66K9A)
 
