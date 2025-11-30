@@ -2,7 +2,7 @@
 
 x
 
-[Software Demo Video]([(https://youtu.be/gxL43s66K9A])
+[Software Demo Video](https://youtu.be/gxL43s66K9A)
 
 # Development Environment
 
