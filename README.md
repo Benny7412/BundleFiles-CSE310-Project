@@ -4,7 +4,6 @@ This is a small file bundling utility to learn the basics of C++ and developing 
 
 .bat files which are writing to the registry were written with the help of stack overflow and chatgpt and reviewed carefully to avoid writing potentially harmful code.
 
-[Software Demo Video](https://youtu.be/gxL43s66K9A)
 
 # Development Environment
 
